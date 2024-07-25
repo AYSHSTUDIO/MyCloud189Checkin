@@ -1,6 +1,6 @@
 module.exports = [
   {
-    userName: process.env.TY_USER_NAME || "userName",
+    userName: process.env.TY_USER_NAME || "userName1",
     password: process.env.TY_PASSWORD || "password",
   },
   {
